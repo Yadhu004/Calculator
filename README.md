@@ -1,1 +1,2 @@
 # Calculator
+Build the calculator project successfully, this project helped me strengthen the javascript concepts that I had learned, for this project created buttons, made them functional. Successfully implemented logic that passed several test cases. 
